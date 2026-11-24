@@ -28,7 +28,7 @@ public class Main {
         int opcionPrincipal;
 
         do {
-            System.out.println("\nSISTEMA DE GESTIÓN DE SERVICIOS");
+            System.out.println("\nEscoja lo que quiere hacer");
             System.out.println("1. Módulo Cine Colombia");
             System.out.println("2. Módulo Avianca");
             System.out.println("0. Salir del sistema");
